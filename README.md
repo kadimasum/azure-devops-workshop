@@ -5,7 +5,7 @@
 
 - [Azure Portal](https://portal.azure.com/#home)
      
-3. Set up azure CLI
+2. Set up Azure CLI
    
 - [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
 
