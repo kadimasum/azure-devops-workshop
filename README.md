@@ -1,5 +1,7 @@
 # azure-devops-workshop
 
+![event-banner](./images/img.png)
+
 In this workshop, I will introduce you to DevOps, Cloud Computing with Azure, and Azure DevOps. We will do a practical demonstration of how all Azure DevOps Services integrate to deliver software faster to the consumers
 
 ## Prerequisites
