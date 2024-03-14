@@ -2,7 +2,8 @@
 
 ## Prerequisites
 1. Visit the Azure portal and create an account
-   - [Azure Portal](https://portal.azure.com/#home)
+
+- [Azure Portal](https://portal.azure.com/#home)
      
 3. Set up azure CLI
    
